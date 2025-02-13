@@ -1,1 +1,1 @@
-This is where I will enter content
+The CIA triad is a model that helps organizations protect the confidentiality, integrity, and availability of information. It's a key component of information security and is used to develop security systems

@@ -1,0 +1,5 @@
+1. MD5 is like a digital fingerprint for data. It takes any piece of information and scrambles it into a 32-character string. It’s fast but not very secure anymore because people have figured out ways to crack it. So it's not recommended for serious security needs.
+
+ 2. SHA is a family of algorithms that also create digital fingerprints, but they’re more secure than MD5. There are different versions, like SHA-1, SHA-256, and SHA-3. The number (like 256) refers to the length of the fingerprint. SHA-256, for example, creates a 64-character string. It’s widely used for securing data. 
+
+3. bcrypt is designed specifically for hashing passwords securely. It’s slower than MD5 and SHA, which is a good thing because it makes it harder for hackers to crack. bcrypt also adds a random component (called “salt”) to each password making it even more secure.

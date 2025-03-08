@@ -1,0 +1,5 @@
+1. Symmetric Encryption: This is like having a single key for a lock. You use the same key to lock and unlock the information. It’s fast and efficient, but you need to keep the key secret. If someone else gets the key, they can unlock your information.
+
+ 2. Asymmetric Encryption: This is like having two keys: one for locking (public key) and one for unlocking (private key). You can share the public key with anyone, and they can use it to lock (encrypt) information. Only you have the private key to unlock (decrypt) it. This is more secure for sharing information over the internet. 
+
+3. Hashing: This isn’t exactly encryption but is often used in security. Hashing takes information and scrambles it into a fixed-length string of characters. It's like creating a unique fingerprint for the data. It’s one-way, meaning you can’t reverse it to get the original information. It’s useful for things like storing passwords securely
